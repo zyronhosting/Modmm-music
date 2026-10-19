@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", "sparrowEI4NWAlKPJD2n1qeKJh6dJUp") # Get This API KE
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DevloperSP/MusicSp",
+    "https://github.com/zyronhosting/Modmm-music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
